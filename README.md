@@ -7,4 +7,5 @@
 色々なアドベントカレンダーに寄稿しつつ25日分のカレンダーを完成させます。たぶん。  
 
 ## 12月1日 
-未定
+[PythonでChatGPTをしばく](https://qiita.com/Chroma7p/items/5ba7b7c11aaf6aaa3113)
+OpenAIのPythonのAPIのラッパーを作った話と最近の変更点へのボヤキです。
