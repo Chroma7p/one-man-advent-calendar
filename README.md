@@ -9,3 +9,7 @@
 ## 12月1日 
 [PythonでChatGPTをしばく](https://qiita.com/Chroma7p/items/5ba7b7c11aaf6aaa3113)
 OpenAIのPythonのAPIのラッパーを作った話と最近の変更点へのボヤキです。
+
+## 12月2日
+[PythonでSwitchBotのAPIをしばく](https://qiita.com/Chroma7p/items/8e1817d313beca2b2641)
+SwitchBotのAPIの使い方とAPIラッパー的なクラスを作ったお話です。
